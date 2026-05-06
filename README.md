@@ -6,3 +6,6 @@ Inspired by the Vending-Bench paper (Backlund & Petersson, 2025), this project i
 - LLM interprets the situation, parses data 
 - Quadratic Penalty method to incorporate constraints
 - Loss terms include wasted inventory, out of stock frequency, price instability, and bankruptcy risk
+
+# Stack
+- likely python for simulation, C++ optimizerss
